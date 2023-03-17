@@ -2,7 +2,6 @@
 .calendar-meetings {
   max-width: 1140px;
   margin: auto;
-  margin-right: 10px;
   text-align: center;
   color: var(--color-secondary-light);
 
@@ -15,7 +14,6 @@
     margin: 0;
   }
   .fc-addToCalendar-button,.fc-button {
-    //margin: 5px;
     transition: all .4s;
     border: none;
     background-color: var(--brand-color-secondary) !important;
